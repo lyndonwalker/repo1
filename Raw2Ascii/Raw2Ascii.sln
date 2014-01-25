@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Raw2Ascii", "Raw2Ascii\Raw2Ascii.vcxproj", "{CA693D65-DAF8-4A0F-8BB9-B3EF23B7F124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA693D65-DAF8-4A0F-8BB9-B3EF23B7F124}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CA693D65-DAF8-4A0F-8BB9-B3EF23B7F124}.Debug|Win32.Build.0 = Debug|Win32
+		{CA693D65-DAF8-4A0F-8BB9-B3EF23B7F124}.Release|Win32.ActiveCfg = Release|Win32
+		{CA693D65-DAF8-4A0F-8BB9-B3EF23B7F124}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
